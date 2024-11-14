@@ -10,3 +10,4 @@ def eliminaNones(d):
     
     return d   
 # fim eliminaNones
+# teste 
