@@ -19,3 +19,6 @@ def dic4ListaDics(d):
     [[88, 89, 62, 95], [77, 78, 84, 80]]
 
     return lstdics
+
+
+#teste
